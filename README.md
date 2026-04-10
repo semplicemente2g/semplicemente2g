@@ -28,10 +28,6 @@ Ecco i linguaggi, i framework e i tool che utilizzo regolarmente:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=semplicemente2g&show_icons=true&theme=radical)
-![I linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=semplicemente2g&layout=compact&theme=radical)
-
 ### 📫 Come contattarmi
 - **Email Universitaria**: [luigi.lauriola2@studio.unibo.it](mailto:luigi.lauriola2@studio.unibo.it)
 - **Email Personale**: [luigilauriola22@gmail.com](mailto:luigilauriola22@gmail.com)
