@@ -11,8 +11,8 @@ My research and development focus lies at the intersection of AI and decentraliz
 
 ### 💼 Experience & Education
 - 🎓 **BSc in Computer Engineering** @ [UNIBO](https://www.unibo.it/)
-- 💻 **Intern** @ **T3LAB** (Technology Transfer Team)
 - 💻 **Intern** @ **Alma Mater Studiorum – University of Bologna**
+- 💻 **Intern** @ **T3LAB** (Technology Transfer Team)
 - 🏫 **High School Diploma** @ [Liceo Galilei-Moro](https://www.galileimoro.edu.it/)
 
 ### 🛠 Tech Stack
