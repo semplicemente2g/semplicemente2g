@@ -1,22 +1,22 @@
-# Ciao, sono Luigi Lauriola 👋
+# Hi, I'm Luigi Lauriola 👋
 
-🎓 Sono uno studente magistrale in **Ingegneria Informatica presso l'Università di Bologna (UNIBO)**. 
-Appassionato di architetture di sistema, tecnologie backend e intelligenza artificiale. Mi piace risolvere problemi complessi e costruire soluzioni innovative, sicure e scalabili.
+🎓 I am a Master's student in **Computer Engineering at the University of Bologna (UNIBO)**. 
+Passionate about system architectures, backend technologies, and artificial intelligence. I enjoy solving complex problems and building innovative, secure, and scalable solutions.
 
-### 🚀 Su cosa sto lavorando
-Il mio focus di ricerca e sviluppo si concentra sull'intersezione tra AI e sistemi decentralizzati:
-- 🤖 **Multi-Agent LLMs:** Studio il funzionamento dei Large Language Models (LLM) utilizzati come agenti autonomi e cooperanti.
-- 🎯 **Prompt Engineering:** Approfondisco le tecniche di progettazione e ottimizzazione delle istruzioni per guidare il comportamento degli agenti in modo controllato.
-- 🛡️ **Guardrailing & Blockchain:** Sviluppo meccanismi di controllo per garantire la sicurezza degli AI agent. Analizzo inoltre l'uso di tecnologie decentralizzate (Blockchain) per migliorare trasparenza, tracciabilità e fiducia nelle interazioni multi-agente.
+### 🚀 What I'm working on
+My research and development focus lies at the intersection of AI and decentralized systems:
+- 🤖 **Multi-Agent LLMs:** Studying the mechanics of Large Language Models (LLMs) used as autonomous and cooperating agents.
+- 🎯 **Prompt Engineering:** Deepening my knowledge of instruction design and optimization techniques to guide agent behavior in a controlled and reliable manner.
+- 🛡️ **Guardrailing & Blockchain:** Developing control mechanisms to ensure the safety of AI agents. I am also analyzing the use of decentralized technologies (Blockchain) to improve transparency, traceability, and trust in multi-agent interactions.
 
-### 💼 Esperienza e Formazione
-- 🎓 **Laurea Triennale in Ingegneria Informatica** @ [UNIBO](https://www.unibo.it/)
-- 💻 **Tirocinante** @ **T3LAB** (Team di trasferimento tecnologico)
-- 💻 **Tirocinante** @ **Alma Mater Studiorum – Università di Bologna**
-- 🏫 **Diploma di scuola superiore** @ [Liceo Galilei-Moro](https://www.galileimoro.edu.it/)
+### 💼 Experience & Education
+- 🎓 **BSc in Computer Engineering** @ [UNIBO](https://www.unibo.it/)
+- 💻 **Intern** @ **T3LAB** (Technology Transfer Team)
+- 💻 **Intern** @ **Alma Mater Studiorum – University of Bologna**
+- 🏫 **High School Diploma** @ [Liceo Galilei-Moro](https://www.galileimoro.edu.it/)
 
 ### 🛠 Tech Stack
-Ecco i linguaggi, i framework e i tool che utilizzo regolarmente:
+Here are the languages, frameworks, and tools I use regularly:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,6 +28,6 @@ Ecco i linguaggi, i framework e i tool che utilizzo regolarmente:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 Come contattarmi
-- **Email Universitaria**: [luigi.lauriola2@studio.unibo.it](mailto:luigi.lauriola2@studio.unibo.it)
-- **Email Personale**: [luigilauriola22@gmail.com](mailto:luigilauriola22@gmail.com)
+### 📫 How to reach me
+- **University Email**: [luigi.lauriola2@studio.unibo.it](mailto:luigi.lauriola2@studio.unibo.it)
+- **Personal Email**: [luigilauriola22@gmail.com](mailto:luigilauriola22@gmail.com)
