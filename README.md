@@ -1,7 +1,7 @@
 # Hi, I'm Luigi Lauriola 👋
 
 🎓 I am a Master's student in **Computer Engineering at the University of Bologna (UNIBO)**. 
-Passionate about system architectures, backend technologies, and artificial intelligence. I enjoy solving complex problems and building innovative, secure, and scalable solutions.
+I'm passionate about front-end and back-end technologies, cybersecurity, and artificial intelligence. I enjoy solving complex problems and building innovative, secure, and scalable solutions.
 
 ### 🚀 What I'm working on
 My research and development focus lies at the intersection of AI and decentralized systems:
