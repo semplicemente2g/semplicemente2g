@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Luigi%20Lauriola%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MSc%20Computer%20Engineering%20Student%20@%20UNIBO&descAlignY=55&descAlign=50" />
 
   <!-- Animazione di testo effetto "macchina da scrivere" -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Multi-Agent+LLMs+%26+Decentralized+Systems;Cybersecurity+%26+IoT+Enthusiast;Building+innovative+%26+secure+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Multi-Agent+LLMs+%26+Decentralized+Systems;Cybersecurity+%26+AI+Enthusiast;Building+innovative+%26+secure+solutions" alt="Typing SVG" />
 </div>
 
 ---
