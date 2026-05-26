@@ -44,13 +44,11 @@ My research and development focus lies at the intersection of AI and decentraliz
 
 ### 📊 GitHub Stats & Activity
 
-<!-- Ricordati di sostituire "TUO_USERNAME" con il tuo username di GitHub! -->
-<img src="https://github-readme-stats.vercel.app/api?username=semplicemente2g&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777&icon_color=2496ED" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semplicemente2g&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api?username=semplicemente2g&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777&icon_color=2496ED" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=semplicemente2g&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777" width="48%" />
 
 <br>
 
-<!-- Segnaposto per l'animazione del serpentino di GitHub -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/output/github-contribution-grid-snake.svg">
