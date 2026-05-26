@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner animato superiore -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Luigi%20Lauriola%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MSc%20Computer%20Engineering%20Student%20@%20UNIBO&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Luigi%20Lauriola%20&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MSc%20Computer%20Engineering%20Student%20@%20UNIBO&descAlignY=55&descAlign=50" />
 
   <!-- Animazione di testo effetto "macchina da scrivere" -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Multi-Agent+LLMs+%26+Decentralized+Systems;Cybersecurity+%26+AI+Enthusiast;Building+innovative+%26+secure+solutions" alt="Typing SVG" />
@@ -15,7 +15,7 @@ I'm passionate about front-end and back-end technologies, cybersecurity and arti
 ### 🚀 What I'm working on
 My research and development focus lies at the intersection of AI and decentralized systems:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" align="center" /> **Multi-Agent LLMs:** Studying the mechanics of Large Language Models (LLMs) used as autonomous and cooperating agents.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Direct Hit" width="25" height="25" align="center" /> **Prompt Engineering:** Deepening my knowledge of instruction design and optimization techniques to guide agent behavior in a controlled and reliable manner.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="25" height="25" align="center" /> **Prompt Engineering:** Deepening my knowledge of instruction design and optimization techniques to guide agent behavior in a controlled and reliable manner.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" align="center" /> **Guardrailing & Blockchain:** Developing control mechanisms to ensure the safety of AI agents. I am also analyzing the use of decentralized technologies (Blockchain) to improve transparency, traceability, and trust in multi-agent interactions.
 
 ### 💼 Experience & Education
