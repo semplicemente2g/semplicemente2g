@@ -50,9 +50,9 @@ My research and development focus lies at the intersection of AI and decentraliz
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/output/github-contribution-grid-snake.svg" width="80%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/main/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="Grafico 3D dei contributi" src="https://raw.githubusercontent.com/semplicemente2g/semplicemente2g/main/profile-3d-contrib/profile-green-animate.svg" width="100%">
 </picture>
 
 <br><br>
