@@ -19,6 +19,7 @@ My research and development focus lies at the intersection of AI and decentraliz
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" align="center" /> **Guardrailing & Blockchain:** Developing control mechanisms to ensure the safety of AI agents. I am also analyzing the use of decentralized technologies (Blockchain) to improve transparency, traceability, and trust in multi-agent interactions.
 
 ### 💼 Experience & Education
+- 🎓 **MSc in Computer Engineering** @ [UNIBO](https://www.unibo.it/)
 - 🎓 **BSc in Computer Engineering** @ [UNIBO](https://www.unibo.it/)
 - 💻 **Intern** @ **Alma Mater Studiorum – University of Bologna**
 - 💻 **Intern** @ **T3LAB** (Technology Transfer Team)
