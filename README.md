@@ -9,8 +9,8 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 I am a Master's student in **Computer Engineering at the University of Bologna (UNIBO)**. 
-I'm passionate about front-end and back-end technologies, cybersecurity and artificial intelligence. I enjoy solving complex problems and building innovative, secure and scalable solutions.
+🎓 I am a Master's Graduate in **Computer Engineering at the University of Bologna (UNIBO)**. 
+I'm passionate about artificial intelligence, specifically AI agents and runtime guardrails—cybersecurity and full-stack development. I enjoy solving complex problems and building innovative, secure and scalable solutions.
 
 ### 🚀 What I'm working on
 My research and development focus lies at the intersection of AI and decentralized systems:
@@ -22,7 +22,6 @@ My research and development focus lies at the intersection of AI and decentraliz
 - 🎓 **BSc in Computer Engineering** @ [UNIBO](https://www.unibo.it/)
 - 💻 **Intern** @ **Alma Mater Studiorum – University of Bologna**
 - 💻 **Intern** @ **T3LAB** (Technology Transfer Team)
-- 🏫 **High School Diploma** @ [Liceo Galilei-Moro](https://www.galileimoro.edu.it/)
 
 ---
 
